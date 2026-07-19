@@ -9,7 +9,7 @@
 | Day | Focus | What You Do |
 |-----|-------|-------------|
 | Day 1 | Theory + Hands-on Labs Experiments | Understand how AI works, practice with live code |
-| Day 2 | Theory + Build a Full System | Build an AI-Powered Incident Report System (Flask + AI) |
+| Day 2 | Theory + Build a Full System - Capstone Project | Build an AI-Powered Incident Report System (Flask + AI) |
 
 ---
 
